@@ -4,12 +4,10 @@
   The goal of this project was to create a CMS (content management system) that allows for the management of a company's employee database. 
   
   ## Table of Contents
-  - [Installation](#installation)
   - [Usage](#usage)
   - [Technologies](#technologies)
   - [Preview](#preview)
-  - [Contributors](#credit)
-  - [Launch](#launch)
+  - [Video](#video)
   - [License](#license)
   - [Badges](#badges)
 
