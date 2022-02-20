@@ -1,7 +1,8 @@
 # Employee Tracker
 
   ## Description
-  The goal of this project was to create a CMS (content management system) that allows for the management of a company's employee database. 
+  The goal of this project was to create a CMS (content management system) that allows for the management of a company's employee database. Command-line application that
+  uses MySQL to store and adjust the provided data.
   
   ## Table of Contents
   - [Usage](#usage)
@@ -26,7 +27,7 @@
   ## License
   MIT License
 
-    Copyright (c) [year] [fullname]
+    Copyright (c) [2021] [Marc Negron]
     
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
